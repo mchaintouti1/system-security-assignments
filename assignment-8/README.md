@@ -1,6 +1,3 @@
-### Chaintouti Maria  - 2020030129
-### Cheiladakis Nikos - 2020030140
-
 ## Assignment 8
 The assignment involves exploiting the "Greeter" program to grade with more than 6 and spawn a terminal shell. Additionally, in the second task includes bypassing  DEP (Data Execution Prevention) using a return-to-libc attack on the "SecGreeter" program.
 

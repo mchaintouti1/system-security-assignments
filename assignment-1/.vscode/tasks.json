@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Build with Libsodium",
+        "type": "shell",
+        "command": "gcc",
+        "args": [
+          "ecdh.c",
+          "-o",
+          "ecdh",
+          "-lsodium"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": ["$gcc"]
+      }
+    ]
+  }
+  

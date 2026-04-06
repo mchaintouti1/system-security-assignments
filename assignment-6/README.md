@@ -1,7 +1,3 @@
-# Team Number: 34
-# Chaintouti Maria     - AM 2020030129
-# Cheiladakis Nikolaos - AM 2020030140
-
 ## Assignment 6 Description
 This project implements a simple firewall mechanism using a Bash script to block connections based on domain names and IP addresses. The script utilizes iptables and ip6tables to configure, save, load, reset, and list firewall rules for IPv4 and IPv6 traffic.
 

@@ -1,6 +1,3 @@
-### Chaintouti Maria      2020030129
-### Cheiladakis Nikolaos  2020030140
-
 ## Network traffic monitoring using the Packet Capture library
 This project is a network packet capture and analysis tool that allows you to capture and analyze network traffic in real-time or from a saved packet capture file. It tracks TCP and UDP flows and computes statistics, such as the number of packets and bytes transferred, including retransmitted TCP packets.
 
